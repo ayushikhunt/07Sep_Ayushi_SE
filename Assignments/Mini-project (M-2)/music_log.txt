@@ -1,0 +1,8 @@
+
+Day [1] Minutes: 12
+Day [2] Minutes: 65
+Day [3] Minutes: 23
+Day [4] Minutes: 45
+Day [5] Minutes: 65
+Day [6] Minutes: 98
+Day [7] Minutes: 78

@@ -1,0 +1,3 @@
+milk 50
+cake 1000
+chips 150
